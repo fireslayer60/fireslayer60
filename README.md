@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 - 🔭 I’m currently working on [Code Rivals](https://github.com/fireslayer60/CodeRivals)
 
 - 🌱 I’m currently learning **Spring Boot,Redis**
