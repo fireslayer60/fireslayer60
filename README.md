@@ -14,7 +14,7 @@
 
 - 🔭 I’m also working on [Dev connect](https://github.com/fireslayer60/devconnect)
 
-- 💬 Ask me about **React, Python and Flutter**
+- 💬 Ask me about **javascript, Python and Flutter**
 
 - 📫 How to reach me **krishpandey2004@gmail.com**
 
