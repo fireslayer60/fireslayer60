@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 
 ###
@@ -8,13 +8,11 @@
 
 <img src="https://raw.githubusercontent.com/fireslayer60/fireslayer60/output/snake.svg" alt="Snake animation" />
 
-- 🔭 I’m currently working on [Code Rivals](https://github.com/fireslayer60/CodeRivals)
+- 🔭 I’m currently working on [SpiderEngine](https://github.com/fireslayer60/SpiderEngine)
 
 - 🌱 I’m currently learning **Spring Boot,Redis**
 
-- 🔭 I’m also working on [Pipio](https://github.com/fireslayer60/Pipio)
-
-- 💬 Ask me about **javascript, Python and Flutter**
+- 💬 Ask me about **Java, Python and javascript**
 
 - 📫 How to reach me **krishpandey2004@gmail.com**
 
