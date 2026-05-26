@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **krishpandey2004@gmail.com**
 
-- ⚡ Fun fact **StackOverflow > ChatGPT**
+- ⚡ Fun fact **StackOverflow > ChatGPT(this is my cope lol)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
